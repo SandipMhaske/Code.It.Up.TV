@@ -64,6 +64,7 @@
 
         [HttpPut]
         [Route(Id)]
+        [Authorize]
         public async Task<ActionResult> Edit(int id, EditDealerInputModel input)
         {
             var dealer = this.currentUser.IsAdministrator
