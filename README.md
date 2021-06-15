@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/ivaylokenov/MyTested.AspNetCore.Mvc/master/tools/logo.png" align="left" alt="My Tested ASP.NET" width="100">&nbsp; MyTested.AspNet.TV - <a href="https://www.youtube.com/channel/UCP5Ons7fK3yKhX6lhc9XcfQ" target="_blank">YouTube Channel</a> for<br />&nbsp; Advanced C# Lessons</h1> 
+<h1><img src="https://raw.githubusercontent.com/ivaylokenov/MyTested.AspNetCore.Mvc/master/tools/logo.png" align="left" alt="My Tested ASP.NET" width="100">&nbsp; Code.It.Up.TV - <a href="https://www.youtube.com/channel/UCP5Ons7fK3yKhX6lhc9XcfQ" target="_blank">YouTube Channel</a> for<br />&nbsp; Advanced C# Lessons</h1> 
 
 ## Diamond Sponsors
 
